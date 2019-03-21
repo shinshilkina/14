@@ -1,0 +1,10 @@
+C:\Users\Ася\Desktop\универ\5 семестр\проектирование информационных систем\14\DataGridViewWithDataBase\DataGridViewWithDataBase\bin\Debug\DataGridViewWithDataBase.exe.config
+C:\Users\Ася\Desktop\универ\5 семестр\проектирование информационных систем\14\DataGridViewWithDataBase\DataGridViewWithDataBase\bin\Debug\БД (1).mdb
+C:\Users\Ася\Desktop\универ\5 семестр\проектирование информационных систем\14\DataGridViewWithDataBase\DataGridViewWithDataBase\bin\Debug\DataGridViewWithDataBase.exe
+C:\Users\Ася\Desktop\универ\5 семестр\проектирование информационных систем\14\DataGridViewWithDataBase\DataGridViewWithDataBase\bin\Debug\DataGridViewWithDataBase.pdb
+C:\Users\Ася\Desktop\универ\5 семестр\проектирование информационных систем\14\DataGridViewWithDataBase\DataGridViewWithDataBase\obj\Debug\DataGridViewWithDataBase.csprojResolveAssemblyReference.cache
+C:\Users\Ася\Desktop\универ\5 семестр\проектирование информационных систем\14\DataGridViewWithDataBase\DataGridViewWithDataBase\obj\Debug\DataGridViewWithDataBase.Form1.resources
+C:\Users\Ася\Desktop\универ\5 семестр\проектирование информационных систем\14\DataGridViewWithDataBase\DataGridViewWithDataBase\obj\Debug\DataGridViewWithDataBase.Properties.Resources.resources
+C:\Users\Ася\Desktop\универ\5 семестр\проектирование информационных систем\14\DataGridViewWithDataBase\DataGridViewWithDataBase\obj\Debug\DataGridViewWithDataBase.csproj.GenerateResource.Cache
+C:\Users\Ася\Desktop\универ\5 семестр\проектирование информационных систем\14\DataGridViewWithDataBase\DataGridViewWithDataBase\obj\Debug\DataGridViewWithDataBase.exe
+C:\Users\Ася\Desktop\универ\5 семестр\проектирование информационных систем\14\DataGridViewWithDataBase\DataGridViewWithDataBase\obj\Debug\DataGridViewWithDataBase.pdb
